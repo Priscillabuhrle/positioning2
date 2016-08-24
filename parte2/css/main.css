@@ -1,0 +1,20 @@
+/* Inserta tu CSS aqui */
+.contenedor{
+	width: 400px;
+	height: 400px;
+	background-color: #1151F4;
+}
+.morado{
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	background-color: green;
+	top: 100px;
+	left: 100px;
+}
+.hola{
+	width: 93px;
+	height: 93px;
+	position: absolute;
+	background-color: black;
+}
